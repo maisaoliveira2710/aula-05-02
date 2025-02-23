@@ -5,3 +5,4 @@ Este repositorio foi criado durante as aulas da disciplina de Data Enginering
 Autora: Maísa Sampaio
 Data: Fev/2025
 
+Essa aula está sendo bem produtiva!
